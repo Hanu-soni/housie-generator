@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/housie-game/static/css/main.1937c416.css",
+    "main.js": "/housie-game/static/js/main.f7d5acec.js",
+    "static/media/logo.svg": "/housie-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/housie-game/index.html",
+    "main.1937c416.css.map": "/housie-game/static/css/main.1937c416.css.map",
+    "main.f7d5acec.js.map": "/housie-game/static/js/main.f7d5acec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1937c416.css",
+    "static/js/main.f7d5acec.js"
+  ]
+}
