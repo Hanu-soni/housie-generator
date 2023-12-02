@@ -1,0 +1,19 @@
+.housie-box {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 5px;
+  }
+  
+  .housie-grid {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .housie-grid.generated {
+    background-color: red;
+  }
+  
+  /* Add any additional styling as needed */
+  
